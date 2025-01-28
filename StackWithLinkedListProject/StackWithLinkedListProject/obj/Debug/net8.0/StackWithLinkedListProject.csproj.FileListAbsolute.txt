@@ -1,0 +1,12 @@
+Z:\learn-git2\Bài tập C#\StackWithLinkedListProject\StackWithLinkedListProject\bin\Debug\net8.0\StackWithLinkedListProject.deps.json
+Z:\learn-git2\Bài tập C#\StackWithLinkedListProject\StackWithLinkedListProject\bin\Debug\net8.0\StackWithLinkedListProject.dll
+Z:\learn-git2\Bài tập C#\StackWithLinkedListProject\StackWithLinkedListProject\bin\Debug\net8.0\StackWithLinkedListProject.pdb
+Z:\learn-git2\Bài tập C#\StackWithLinkedListProject\StackWithLinkedListProject\obj\Debug\net8.0\StackWithLinkedListProject.GeneratedMSBuildEditorConfig.editorconfig
+Z:\learn-git2\Bài tập C#\StackWithLinkedListProject\StackWithLinkedListProject\obj\Debug\net8.0\StackWithLinkedListProject.AssemblyInfoInputs.cache
+Z:\learn-git2\Bài tập C#\StackWithLinkedListProject\StackWithLinkedListProject\obj\Debug\net8.0\StackWithLinkedListProject.AssemblyInfo.cs
+Z:\learn-git2\Bài tập C#\StackWithLinkedListProject\StackWithLinkedListProject\obj\Debug\net8.0\StackWithLinkedListProject.csproj.CoreCompileInputs.cache
+Z:\learn-git2\Bài tập C#\StackWithLinkedListProject\StackWithLinkedListProject\obj\Debug\net8.0\StackWithLinkedListProject.sourcelink.json
+Z:\learn-git2\Bài tập C#\StackWithLinkedListProject\StackWithLinkedListProject\obj\Debug\net8.0\StackWithLinkedListProject.dll
+Z:\learn-git2\Bài tập C#\StackWithLinkedListProject\StackWithLinkedListProject\obj\Debug\net8.0\refint\StackWithLinkedListProject.dll
+Z:\learn-git2\Bài tập C#\StackWithLinkedListProject\StackWithLinkedListProject\obj\Debug\net8.0\StackWithLinkedListProject.pdb
+Z:\learn-git2\Bài tập C#\StackWithLinkedListProject\StackWithLinkedListProject\obj\Debug\net8.0\ref\StackWithLinkedListProject.dll
